@@ -9,7 +9,7 @@ void setup()
 
 }
 
-void clouds(){
+void clouds1(){
 
 	noStroke();
 	fill(255,255,255,200);
@@ -47,7 +47,7 @@ void draw(){
 	}
 
 	sun();
-	clouds();
+	clouds1();
 	
 
 	fill(245,239,84);
