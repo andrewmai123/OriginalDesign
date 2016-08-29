@@ -2,6 +2,7 @@ float sunmove = 240;
 int clouds = 120;
 int cloud = 270;
 float x = 255;
+
 void setup()
 {
   size(400,400);
@@ -52,7 +53,6 @@ void draw(){
 	fill(245,239,84);
 	noStroke();
 	rect(0, 300, 400, 150);
-
 
 }
 
